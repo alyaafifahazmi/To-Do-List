@@ -17,8 +17,8 @@ Select a number for the action that you would like to do.
 6. Clear To-Do list
 
 ### Sketch Ideas
-1. ~~Use GUI for user experience - Tkinter
-2. ~~Use Return key to add task
+1. ~~Use GUI for user experience - Tkinter~~
+2. ~~Use Return key to add task~~
 3. Use strikeout and sort completed tasks 
 4. Check/Search if task is available in the list -WIP-
 5. Sort using timestamp
