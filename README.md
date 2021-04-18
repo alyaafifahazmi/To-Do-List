@@ -1,5 +1,5 @@
 # Your-To-Do-List
-Create To-Do list with Python with GUI Tkinter
+Create To-Do list with Python and GUI Tkinter
 
 ## Source
 - Geek Tutorials - [Python - Code a Shopping List App](https://www.youtube.com/watch?v=0m7csmqWAgI)
