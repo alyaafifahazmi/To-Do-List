@@ -1,4 +1,4 @@
-# To-Do-List without GUI
+# [To-Do-List without GUI](https://github.com/alyaafifahazmi/Your-To-Do-List/blob/main/To-Do.py)
 
 ## Source
 
@@ -23,7 +23,7 @@ Select a number for the action that you would like to do.
 5. Sort using timestamp
 6. Make graph statistics on completed/not completed task
 
-# To-do-List with GUI - tkinter
+# [To-do-List with GUI - Tkinter](https://github.com/alyaafifahazmi/Your-To-Do-List/blob/main/To-Do_GUI.py)
 
 ## Source
 - Geek Tutorials - [Python - Code a Shopping List App](https://www.youtube.com/watch?v=0m7csmqWAgI)
