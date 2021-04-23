@@ -33,30 +33,23 @@ Select a number for the action that you would like to do.
 <img src = "https://github.com/alyaafifahazmi/Your-To-Do-List/blob/main/To-Do%20GUI.PNG">
 </p>
 
-- Add task by pressing enter or click button "Add task"
-
-- If there is no character in entry box, warning pop up message appears asking to fill in the entry box
+1. Add task by pressing enter or click button "Add task"
+2. If there is no character in entry box, warning pop up message appears asking to fill in the entry box
 
 <p align="center">
 <img src = "https://github.com/alyaafifahazmi/Your-To-Do-List/blob/main/Warning_AddTask.PNG">
 </p>
 
-- Delete one task at a time
-
-- If no task is selected, warning pop up message appear to select a task
+3. Delete one task at a time
+4. If no task is selected, warning pop up message appear to select a task
 
 <p align="center">
 <img src = "https://github.com/alyaafifahazmi/Your-To-Do-List/blob/main/Warning_DeleteTask.PNG">
 </p>
 
-- Save tasks to local file
-
-- Load saved task
-
-- Edit task by double click on the task
-
-- Grey out the font of the task to show it is complete
-
-- Undo the complete action, by returning back to black fonts
-
-- Delete all the completed tasks with one click
+5. Save tasks to local file
+6. Load saved task
+7. Edit task by double click on the task
+8. Grey out the font of the task to show it is complete
+9. Undo the complete action, by returning back to black fonts
+10. Delete all the completed tasks with one click
